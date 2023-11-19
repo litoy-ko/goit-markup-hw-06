@@ -714,4 +714,8 @@ body {
 .btn-sub svg {
     fill: white;
 }
+
+.btn-sub:hover {
+    cursor: pointer;
+}
 /* end of footer styling--------------------------------- */
